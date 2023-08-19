@@ -1,0 +1,15 @@
+Video or screenshot will display here
+
+VIDEO (CHROME & FIREFOX)
+Place .ogg or webm file in assets/videos/
+
+VIDEO (SAFARI)
+Place mov or mp4 file in assets/videos/
+
+SCREENSHOT
+Place jpg or png file in assets/screenshot/
+
+SUPPORTED RESOLUTIONS
+1792 × 828
+1125 × 2436
+1242 x 2688
