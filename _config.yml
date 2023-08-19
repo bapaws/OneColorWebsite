@@ -79,6 +79,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - yourscreenshot.txt
 
 collections:
   pages:
